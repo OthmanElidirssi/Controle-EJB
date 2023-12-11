@@ -1,4 +1,4 @@
-![adding-machine](https://github.com/OthmanElidirssi/Controle-EJB/assets/132103080/5f12108f-77ce-45c9-979a-424640b26870)# Gestion Employee
+# Gestion Employee
 # Show
 ![list-employees](https://github.com/OthmanElidirssi/Controle-EJB/assets/132103080/2a543668-18ff-4fc5-a97f-d3206b060e8b)
 
